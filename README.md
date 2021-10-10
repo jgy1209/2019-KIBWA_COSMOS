@@ -1,3 +1,1 @@
-2019-IBWA_COSMOS
-cafe app
-android studio
+# 2019-IBWA_COSMOS
