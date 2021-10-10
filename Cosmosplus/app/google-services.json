@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "638732126287",
+    "firebase_url": "https://cosmos-eeb4c.firebaseio.com",
+    "project_id": "cosmos-eeb4c",
+    "storage_bucket": "cosmos-eeb4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638732126287:android:17ee526be78dfef5",
+        "android_client_info": {
+          "package_name": "org.techtown.location"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638732126287-5sr89d18uu0p5av0kdap11ltf53dkts7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgZ_YB7JMHoHI_JVVLoQh28vR7C2G-brw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638732126287-5sr89d18uu0p5av0kdap11ltf53dkts7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
